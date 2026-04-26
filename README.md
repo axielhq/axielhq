@@ -6,7 +6,7 @@ A Axiel cria ferramentas praticas, automacoes inteligentes e solucoes personaliz
 
 ## Areas de atuacao
 
-- Automacao de documentos
+- 📄Automacao de documentos
 - Ferramentas com IA
 - Bots e integracoes
 - Organizacao de arquivos
