@@ -1,42 +1,34 @@
 # Axiel
 
-**Open source ecosystem for AI, automation, bots and developer tools.**
+**Ferramentas, automacoes e solucoes com IA para fluxos reais de trabalho.**
 
-Axiel is a growing open source ecosystem focused on building practical software for automation, artificial intelligence, document workflows, file management and developer productivity.
+A Axiel cria ferramentas praticas, automacoes inteligentes e solucoes personalizadas para empresas e profissionais que precisam otimizar processos, organizar documentos, automatizar tarefas e aplicar IA no dia a dia.
 
----
+## Areas de atuacao
 
-## Ecosystem
+- Automacao de documentos
+- Ferramentas com IA
+- Bots e integracoes
+- Organizacao de arquivos
+- OCR e extracao de texto
+- Automacao de tarefas repetitivas
+- Sistemas personalizados
+- Produtividade empresarial
 
-- **Axiel PDF** — PDF tools focused on simplicity, privacy and local processing.
-- **Axiel AI** — AI-powered tools and intelligent workflows.
-- **Axiel File** — File management and organization utilities.
-- **Axiel Automation** — Automation tools for repetitive tasks.
-- **Axiel Bot** — Bots and integrations for productivity.
+## Projetos
 
----
+- **Axiel PDF** - automacao inteligente para PDFs em grande volume, com OCR, renomeacao, deteccao de duplicidade e extracao de texto.
+- **Axiel AI** - ferramentas e fluxos com IA aplicada.
+- **Axiel File** - organizacao e automacao de arquivos.
+- **Axiel Automation** - automacoes para processos repetitivos.
+- **Axiel Bot** - bots e integracoes para produtividade.
 
-## Mission
+## Servicos personalizados
 
-Build simple, useful and reliable open source tools that help people automate work, manage documents and create smarter workflows.
+A Axiel pode desenvolver solucoes sob demanda para empresas e profissionais que precisam de automacoes, ferramentas com IA, bots, fluxos documentais, OCR, organizacao de arquivos e integracoes.
 
----
+Para projetos comerciais, customizacoes ou parcerias, entre em contato pelo canal oficial informado no perfil.
 
-## Focus
+## Sobre
 
-- Open source software
-- AI workflows
-- Automation
-- PDF and document tools
-- File management
-- Developer productivity
-
----
-
-## Status
-
-Axiel is in early development. The first public projects are being prepared for open source release.
-
----
-
-**Built with focus, simplicity and long-term vision.**
+A Axiel e mantida por um estudante de Tecnologia em Engenharia de IA e Machine Learning, com foco em criacao de ferramentas praticas, automacao e aplicacao de IA em problemas reais.
