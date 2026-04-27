@@ -32,6 +32,6 @@ Para projetos comerciais, customizacoes ou parcerias, entre em contato pelo cana
 
 ## Sobre 🎯------
 
-✅ A Axiel e conduzida por um profissional em Infraestrutura de Energia Eletrica BT e Automação integrada (DAQ, IIoT, MQTT).
-🎯 Atualmente em formacao nas areas de Analise e Desenvolvimento de Sistemas e Engenharia de Inteligencia Artificial e Machine Learning, com foco na criacao de ferramentas praticas, automacao e aplicacao de IA em problemas reais.
+- ✅ A Axiel e conduzida por um profissional em Infraestrutura de Energia Eletrica BT e Automação integrada (DAQ, IIoT, MQTT).
+- 🎯 Atualmente em formacao nas areas de Analise e Desenvolvimento de Sistemas e Engenharia de Inteligencia Artificial e Machine Learning, com foco na criacao de ferramentas praticas, automacao e aplicacao de IA em problemas reais.
 
