@@ -1,4 +1,4 @@
-# ⭐ Axiel
+#  Axiel
 
 **Ferramentas, automacoes e solucoes com IA para fluxos reais de trabalho.**
 
