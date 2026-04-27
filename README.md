@@ -29,6 +29,8 @@ A Axiel pode desenvolver solucoes sob demanda para empresas e profissionais que 
 
 Para projetos comerciais, customizacoes ou parcerias, entre em contato pelo canal oficial informado no perfil.
 
-## Sobre
+================================================================================================================================================
+## Sobre 🎯------
 
-A Axiel e mantida por um estudante de Tecnologia em Engenharia de IA e Machine Learning, com foco em criacao de ferramentas praticas, automacao e aplicacao de IA em problemas reais.
+A Axiel e conduzida por um profissional em Infraestrutura de Energia BT e Automação integrada (DAQ, IIoT, MQTT), atualmente em formacao nas areas de Analise e Desenvolvimento de Sistemas e Engenharia de Inteligencia Artificial e Machine Learning, com foco na criacao de ferramentas praticas, automacao e aplicacao de IA em problemas reais.
+================================================================================================================================================
